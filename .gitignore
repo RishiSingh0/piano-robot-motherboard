@@ -1,0 +1,22 @@
+# Altium Designer
+History/
+__Previews/
+Project Logs/
+Project Outputs/
+*.PcbDoc.htm
+*.SchDoc.htm
+*.PrjPcbStructure
+*.Dat
+*.drc
+*.net
+*.html
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.bak
+~*
