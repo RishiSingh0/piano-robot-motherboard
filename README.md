@@ -104,8 +104,8 @@ STM32F446RET6-based motherboard for a piano-playing robot. This board serves as 
 
 ## References
 - [STM32F446RE Datasheet (DS10693)](https://www.st.com/resource/en/datasheet/stm32f446re.pdf)
-- [AN4488 — Getting started with STM32F4 hardware development](https://www.st.com/resource/en/application_note/an4488.pdf)
-- [AN4879 — USB hardware and PCB guidelines using STM32 MCUs](https://www.st.com/resource/en/application_note/an4879.pdf)
+- [AN4488 — Getting started with STM32F4 hardware development](https://www.st.com/resource/en/application_note/an4488-getting-started-with-stm32f4xxxx-mcu-hardware-development-stmicroelectronics.pdf)
+- [AN4879 — USB hardware and PCB guidelines using STM32 MCUs](https://www.st.com/resource/en/application_note/an4879-introduction-to-usb-hardware-and-pcb-guidelines-using-stm32-mcus-stmicroelectronics.pdf)
 - [USBLC6-2 Datasheet](https://www.st.com/resource/en/datasheet/usblc6-2.pdf)
 - [AMS1117 Datasheet](https://www.umw-ic.com/ds/AMS1117.pdf)
 
