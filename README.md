@@ -8,7 +8,9 @@ STM32F446RET6-based motherboard for a piano-playing robot. This board serves as 
 
 ## Schematic
 
-[View Schematic PDF](schematic/Interconnect.pdf)
+![Schematic - MCU and Peripherals](schematic/schematic_page1.png)
+
+![Schematic - BOM](schematic/schematic_page2.png)
 
 ### MCU — STM32F446RET6 (LQFP64)
 - ARM Cortex-M4 with FPU, 180 MHz, 512 KB Flash, 128 KB SRAM
