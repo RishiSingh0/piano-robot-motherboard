@@ -73,6 +73,11 @@ STM32F446RET6-based motherboard for a piano-playing robot. This board serves as 
 - **Board-to-board connectors** — 3x SFH11-PBPC-D05-ST-BK (10-pin each) for actuator, motor, and power daughter boards
 - **SPI header** — 4-pin (SCK2, MISO2, MOSI2, SD_CS)
 
+### GPIO Expansion Headers
+Two breakout headers expose spare MCU pins for future peripherals, probing, and debugging:
+- **P_E1** (12-pin): PC0, PC1, PC2, PC3, PC4, PC5, PC6, PC7, PD2, PC12, PC10, PA15
+- **P_E2** (10-pin): PA2, PA3, PA4, PA10, PB9, PB5, PB6, PB8 + GND
+
 ### Motor Interface (via board connector)
 - PA8: TIM1_CH1 — PWM signal 1
 - PA9: TIM1_CH2 — PWM signal 2
