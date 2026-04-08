@@ -16,7 +16,7 @@ The robot successfully played a complete song in its final demonstration.
   <em>Left: Final system in enclosure with ILI9341 LCD. Right: Motherboard with all three daughter boards connected.</em>
 </p>
 
-https://github.com/RishiSingh0/piano-robot-motherboard/raw/main/images/demo.mp4
+https://github.com/user-attachments/assets/e4c84580-6276-4a45-bc1f-5bcadffd7e85
 
 ## Schematic
 
