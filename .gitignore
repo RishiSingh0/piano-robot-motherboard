@@ -1,4 +1,4 @@
-# Altium Designer
+# Altium Designer generated files
 History/
 __Previews/
 Project Logs/
@@ -11,6 +11,8 @@ Project Outputs/
 *.net
 *.html
 *.log
+*.PcbDoc.Backup*
+*.SchDoc.Backup*
 
 # OS
 .DS_Store
