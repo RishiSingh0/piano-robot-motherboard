@@ -18,7 +18,7 @@ The robot successfully played a complete song in its final demonstration.
 
 **Tuning test demo:**
 
-<video src="images/demo.mp4" controls width="600"></video>
+<video src="https://raw.githubusercontent.com/RishiSingh0/piano-robot-motherboard/main/images/demo.mp4" controls width="600"></video>
 
 <!-- TODO: Add full performance video (Fly Me to the Moon) -->
 
