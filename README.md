@@ -16,17 +16,18 @@ The robot successfully played a complete song in its final demonstration.
   <em>Left: Final system in enclosure with ILI9341 LCD. Right: Motherboard with all three daughter boards connected.</em>
 </p>
 
-**Tuning test demo:**
-
-<p align="center" width="100%">
-<video src="https://github.com/user-attachments/assets/381959c6-beb1-4cde-a3b7-1b7397a94e4c" width="80%" controls></video>
-</p>
-
-**Full performance (Fly Me to the Moon):**
-
-<p align="center" width="100%">
-<video src="https://github.com/user-attachments/assets/a43d4908-bae1-4aea-bd88-e41d0c23e8ff" width="80%" controls></video>
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
+<b>Tuning test</b><br/><br/>
+<video src="https://github.com/user-attachments/assets/381959c6-beb1-4cde-a3b7-1b7397a94e4c" width="100%" controls></video>
+</td>
+<td align="center" width="50%">
+<b>Full performance (Fly Me to the Moon)</b><br/><br/>
+<video src="https://github.com/user-attachments/assets/a43d4908-bae1-4aea-bd88-e41d0c23e8ff" width="100%" controls></video>
+</td>
+</tr>
+</table>
 
 ## Schematic
 
