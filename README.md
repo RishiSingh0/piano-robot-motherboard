@@ -18,7 +18,7 @@ The robot successfully played a complete song in its final demonstration.
 
 **Tuning test demo:**
 
-https://github.com/user-attachments/assets/e4c84580-6276-4a45-bc1f-5bcadffd7e85
+<video src="images/demo.mp4" controls width="600"></video>
 
 <!-- TODO: Add full performance video (Fly Me to the Moon) -->
 
